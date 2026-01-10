@@ -20,7 +20,7 @@ Following are some key features this dashboard entails:
 
 **Seasonality:** Sales data shws high volatility throughout the year, with consistent peaks in Februrary and September. The September surge could be due to the release of the new Apple devices. 
 
-<h2 Technical Higlights h2>
+<h2 Technical Higlights >
 To ensure a professional user interface, I implemented a custom DAX measure to handle data gaps. For example, YOY Sales % measure was optimized to return "Select a Year" value instead of a -100% when no prior year data is available (e.g. for the start year of 2018)
 
 **Measure Example:**
