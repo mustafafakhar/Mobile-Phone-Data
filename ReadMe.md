@@ -1,7 +1,7 @@
 <h1 align="center">
 Mobile Phones Sales Performance Dashboard</h1>
 
-##Project Overview
+## Project Overview
 This Power BI dashboard provides a compehensive analysis of global mobile phone sales data from 2018 to 2021. It is designed to track sales performance, monitor market trends across different brands and evaluate distributor efficiency across multiple international territories. 
 
 [File Link](https://github.com/mustafafakhar/Mobile-Phone-Data/edit/main/ReadMe.txt#:~:text=IMG-,Mobile,-Phone%20Data%20Dashboard)
