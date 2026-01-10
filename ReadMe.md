@@ -24,14 +24,20 @@ Following are some key features this dashboard entails:
 To ensure a professional user interface, I implemented a custom DAX measure to handle data gaps. For example, YOY Sales % measure was optimized to return "Select a Year" value instead of a -100% when no prior year data is available (e.g. for the start year of 2018)
 
 **Measure Example:**
-![Alt text]()
+![Alt text](IMG/YOY % Measure.png)
+*Note: The DIVIDE function is used here to handle null denominators, resulting in a cleaner visualisation*
+
+## Tools Used ##
+The following tools have been used for this dashboard:
+**1- _Power BI_**
+**2- _Excel_**
+**3- _DAX(Data Analysis Expressions)_**
+**4- _Power Query(M)_: Data Cleaning and Transformation**
 
 
 ## Visualizations
-![Alt text](Viusalizations/Pair_Plot_Diagram_Historical_Vs_Future.png) 
-![Alt text](Viusalizations/Pair_Plot_Diagram.png)
-![Alt text](Viusalizations/Predicted_Emissions_Category_Wise.png)
-![Alt text](Viusalizations/Penguin_Style_Pairplot.png)
+![Alt text](IMG/Overview.png) 
+![Alt text](IMG/Region Wise Distribution.png)
 
 
 
