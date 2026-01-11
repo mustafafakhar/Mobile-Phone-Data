@@ -37,7 +37,7 @@ The following tools have been used for this dashboard:
 
 ## Visualizations
 ![Alt text](IMG/Overview) 
-![Alt text](IMG/Region Wise Distribution.png)
+![Alt text](IMG/Region Wise Distribution)
 
 
 
