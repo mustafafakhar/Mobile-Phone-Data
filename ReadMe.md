@@ -30,8 +30,11 @@ To ensure a professional user interface, I implemented a custom DAX measure to h
 ## Tools Used ##
 The following tools have been used for this dashboard:
 **1- _Power BI_**
+
 **2- _Excel_**
+
 **3- _DAX(Data Analysis Expressions)_**
+
 **4- _Power Query(M)_: Data Cleaning and Transformation**
 
 
